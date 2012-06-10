@@ -1,0 +1,5 @@
+*~
+*.komodoproject
+*.kate-swp
+error_log
+.directory
